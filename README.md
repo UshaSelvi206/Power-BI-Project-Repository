@@ -101,7 +101,7 @@ Provides a high-level overview of the company's business performance.
 
 **Business Focus:** Monitor overall business performance, identify revenue trends, and compare regional and category-wise sales.
 ### Executive Summary
-![Executive Summary](execusive-summary.png)
+![Executive Summary](excusive-summary.png)
 ### 2. Product & Customer Insights
 
 Focuses on product profitability and customer-related performance.
