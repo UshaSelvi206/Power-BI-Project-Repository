@@ -1,0 +1,123 @@
+Customer_ID,Customer_Name,Segment,City,State,Region,Signup_Date
+CUST1001,Ananya Sharma,Consumer,Mumbai,Maharashtra,West,2024-05-22
+CUST1002,Ananya Das,Consumer,Kolkata,West Bengal,East,2025-03-08
+CUST1003,Diya Sharma,Consumer,Mysuru,Karnataka,South,2025-06-01
+CUST1004,Nisha Sharma,Consumer,Kolkata,West Bengal,East,2025-10-27
+CUST1005,Isha Rao,Consumer,Hyderabad,Telangana,South,2024-10-11
+CUST1006,Aarav Joshi,Corporate,bengaluru,Tamil Nadu,South,2024-12-14
+CUST1007,Arjun Mehta,Home Office,Hyderabad,Telangana,South,2024-12-10
+CUST1008,Ananya Nair,Consumer,Delhi,Delhi,North,2024-12-18
+CUST1009,Nisha Reddy,Corporate,Bengaluru,Karnataka,South,2025-07-03
+CUST1010,Ananya Bhat,Consumer,Delhi,Delhi,North,2024-10-27
+CUST1011,Nisha Bhat,Corporate,Pune,Maharashtra,West,2024-03-12
+CUST1012,Diya Das,Corporate,Hyderabad,Telangana,South,2024-03-22
+CUST1013,Meera Menon,Consumer,Bangalore,Karnataka,South,2025-04-09
+CUST1014,Kavya Mehta,Consumer,Pune,Maharashtra,West,2025-11-17
+CUST1015,Arjun Gupta,Corporate,Mysuru,Karnataka,South,2024-06-24
+CUST1016,Isha Gupta,Consumer,Hyderabad,Telangana,South,2025-01-23
+CUST1017,Arjun Bhat,Consumer,Kolkata,West Bengal,East,2024-11-28
+CUST1018,Diya Iyer,Corporate,Bengaluru,Karnataka,South,2025-02-14
+CUST1019,Arjun Nair,Home Office,Hyderabad,Telangana,South,2025-08-03
+CUST1020,Siddharth Iyer,Consumer,Noida,Uttar Pradesh,North,2025-10-20
+CUST1021,Rahul Mehta,consumer ,Mumbai,Maharashtra,West,2025-07-28
+CUST1022,Isha Reddy,Consumer,Kochi,Kerala,South,2025-08-20
+CUST1023,Aditya Patel,Home Office,Hyderabad,Telangana,South,2024-05-21
+CUST1024,Karan Verma,Corporate,Mysuru,Karnataka,South,2024-04-22
+CUST1025,Vikram Das,Corporate,Chennai,Tamil Nadu,South,2025-03-08
+CUST1026,Nisha Nair,Consumer,Delhi,Delhi,North,2025-04-24
+CUST1027,Karan Reddy,Home Office,Kolkata,West Bengal,East,2024-01-12
+CUST1028,Ananya Das,Corporate,Kolkata,West Bengal,East,2025-10-18
+CUST1029,Siddharth Nair,Consumer,Mumbai,Maharashtra,West,2025-04-09
+CUST1030,Aarav Gupta,Home Office,Mumbai,Maharashtra,West,2024-07-01
+CUST1031,Karan Bhat,Home Office,Mysuru,Karnataka,South,2024-11-01
+CUST1032,Karan Kulkarni,Consumer,Hyderabad,Telangana,South,2024-06-14
+CUST1033,Isha Joshi,Home Office,Kolkata,West Bengal,East,2025-09-05
+CUST1034,Siddharth Verma,Consumer,Bengaluru,Karnataka,,2025-01-06
+CUST1035,Neha Iyer,Consumer,Bengaluru,Karnataka,South,2025-08-03
+CUST1036,Rohan Nair,Corporate,Noida,Uttar Pradesh,North,2025-06-29
+CUST1037,Vikram Mehta,Home Office,Noida,Uttar Pradesh,North,2024-06-18
+CUST1038,Arjun Singh,Consumer,Kochi,Kerala,South,2024-08-04
+CUST1039,Isha Joshi,Corporate,Hyderabad,Telangana,South,2025-02-12
+CUST1040,Kavya Verma,Consumer,Kolkata,West Bengal,East,2024-09-10
+CUST1041,Meera Nair,Consumer,Pune,Maharashtra,West,2025-07-21
+CUST1042,Meera Kulkarni,Consumer,Hyderabad,Telangana,South,2025-10-08
+CUST1043,Diya Iyer,Home Office,Mysuru,Karnataka,South,2024-12-04
+CUST1044,Rohan Singh,Consumer,Hyderabad,Telangana,South,2025-05-12
+CUST1045,Kabir Singh,Corporate,Chennai,Tamil Nadu,South,2025-08-07
+CUST1046,Manish Verma,Corporate,Hyderabad,Telangana,South,15/08/2024
+CUST1047,Kabir Nair,Corporate,Mysuru,Karnataka,South,2024-12-28
+CUST1048,Pooja Rao,Home Office,Noida,Uttar Pradesh,North,2024-02-25
+CUST1049,Ananya Sharma,Corporate,Delhi,Delhi,North,2024-04-21
+CUST1050,Meera Iyer,Consumer,Hyderabad,Telangana,South,2024-05-23
+CUST1051,Pooja Mehta,Consumer,Mumbai,Maharashtra,West,2024-03-18
+CUST1052,Rahul Joshi,Consumer,Kolkata,West Bengal,East,2025-10-29
+CUST1053,Isha Menon,Home Office,Bengaluru,Karnataka,South,2024-08-30
+CUST1054,Priya Rao,Consumer,Noida,Uttar Pradesh,North,2025-02-14
+CUST1055,Diya Mehta,Consumer,Delhi,Delhi,North,2025-02-03
+CUST1056,Arjun Bhat,Consumer,Noida,Uttar Pradesh,North,2025-07-23
+CUST1057,Sneha Mehta,Consumer,Hyderabad,Telangana,South,2024-02-29
+CUST1058,Manish Gupta,Consumer,Kolkata,West Bengal,East,2024-11-17
+CUST1059,Diya Sharma,Consumer,Kochi,Kerala,South,2025-06-27
+CUST1060,Priya Sharma,Consumer,Kolkata,West Bengal,East,2024-07-09
+CUST1061,Rohan Kulkarni,Corporate,Mysuru,Karnataka,South,2024-08-28
+CUST1062,Aditya Nair,Consumer,Kochi,Kerala,South,2025-08-31
+CUST1063,Diya Kulkarni,Consumer,Mysuru,Karnataka,South,2025-08-20
+CUST1064,Manish Singh,Home Office,Pune,Maharashtra,West,2024-07-28
+CUST1065,Siddharth Iyer,Consumer,Mumbai,Maharashtra,West,2025-11-18
+CUST1066,Neha Verma,Home Office,Pune,Maharashtra,West,2024-03-15
+CUST1067,Aarav Verma,Home Office,Kochi,Kerala,South,2024-04-12
+CUST1068,Rohan Singh,Consumer,Hyderabad,Telangana,South,2024-05-15
+CUST1069,Kavya Bhat,Home Office,Mysuru,Karnataka,South,2025-01-13
+CUST1070,Neha Mehta,Corporate,Noida,Uttar Pradesh,North,2024-11-05
+CUST1071,Nisha Joshi,Consumer,Kolkata,West Bengal,East,2025-07-21
+CUST1072,Neha Bhat,Home Office,Mysuru,Karnataka,South,2024-05-17
+CUST1073,Arjun Nair,Corporate,Mysuru,Karnataka,South,2024-06-08
+CUST1074,Arjun Reddy,Consumer,Kochi,Kerala,South,2024-12-17
+CUST1075,Kabir Das,Consumer,Mumbai,Maharashtra,West,2024-09-14
+CUST1076,Diya Nair,Corporate,Delhi,Delhi,North,2024-02-15
+CUST1077,Aarav Patel,Corporate,Chennai,Tamil Nadu,South,2024-09-25
+CUST1078,Priya Gupta,Corporate,Noida,Uttar Pradesh,North,2025-03-13
+CUST1079,Isha Sharma,Consumer,Mysuru,Karnataka,South,2024-06-01
+CUST1080,Isha Sharma,Corporate,Pune,Maharashtra,West,2024-05-31
+CUST1081,Pooja Mehta,Consumer,Bengaluru,Karnataka,South,2024-02-10
+CUST1082,Kavya Iyer,Corporate,Hyderabad,Telangana,South,2024-12-28
+CUST1083,Isha Bhat,Home Office,Delhi,Delhi,North,2024-06-07
+CUST1084,Meera Menon,Home Office,Chennai,Tamil Nadu,South,2024-06-30
+CUST1085,Pooja Sharma,Corporate,Chennai,Tamil Nadu,South,2024-12-06
+CUST1086,Pooja Joshi,Consumer,Hyderabad,Telangana,South,2024-04-20
+CUST1087,Aditya Menon,Home Office,Bengaluru,Karnataka,South,2024-08-15
+CUST1088,Kabir Menon,Consumer,Noida,Uttar Pradesh,North,2024-08-21
+CUST1089,Meera Sharma,Consumer,Hyderabad,Telangana,South,2024-10-12
+CUST1090,Rohan Joshi,Consumer,Mumbai,Maharashtra,West,2025-06-05
+CUST1091,Aditya Das,Consumer,Kolkata,West Bengal,East,2024-01-29
+CUST1092,Ananya Bhat,Consumer,Mumbai,Maharashtra,West,2024-09-28
+CUST1093,Diya Nair,Consumer,Kochi,Kerala,South,2024-11-17
+CUST1094,Pooja Kulkarni,Consumer,Kolkata,West Bengal,East,2025-08-13
+CUST1095,Kabir Reddy,Corporate,Bengaluru,Karnataka,South,2024-01-02
+CUST1096,Karan Bhat,Corporate,Kolkata,West Bengal,East,2025-11-17
+CUST1097,Kabir Patel,Consumer,Delhi,Delhi,North,2025-11-11
+CUST1098,Siddharth Kulkarni,Corporate,Pune,Maharashtra,West,2024-05-07
+CUST1099,Neha Singh,Corporate,Mumbai,Maharashtra,West,2024-11-30
+CUST1100,Aditya Gupta,Corporate,Mumbai,Maharashtra,West,2024-07-15
+CUST1101,Pooja Das,Corporate,Delhi,Delhi,North,2024-06-27
+CUST1102,Nisha Kulkarni,Consumer,Mumbai,Maharashtra,West,2024-01-01
+CUST1103,Neha Reddy,Consumer,Hyderabad,Telangana,South,2025-08-16
+CUST1104,Nisha Das,Consumer,Pune,Maharashtra,West,2025-03-28
+CUST1105,Kabir Singh,Corporate,Noida,Uttar Pradesh,North,2024-06-22
+CUST1106,Rohan Reddy,Corporate,Kolkata,West Bengal,East,2025-09-26
+CUST1107,Siddharth Nair,Corporate,Hyderabad,Telangana,South,2024-08-18
+CUST1108,Kabir Mehta,Consumer,Bengaluru,Karnataka,South,2025-05-01
+CUST1109,Nisha Menon,Consumer,Mysuru,Karnataka,South,2025-10-06
+CUST1110,Manish Iyer,Consumer,Delhi,Delhi,North,2024-09-06
+CUST1111,Vikram Das,Home Office,Bengaluru,Karnataka,South,2024-04-19
+CUST1112,Pooja Iyer,Corporate,Chennai,Tamil Nadu,South,2025-06-14
+CUST1113,Rahul Sharma,Consumer,Kolkata,West Bengal,East,2024-05-04
+CUST1114,Rahul Mehta,Corporate,Noida,Uttar Pradesh,North,2025-07-26
+CUST1115,Nisha Patel,Corporate,Noida,Uttar Pradesh,North,2025-05-31
+CUST1116,Pooja Menon,Consumer,Kolkata,West Bengal,East,2024-06-11
+CUST1117,Sneha Verma,Corporate,Mumbai,Maharashtra,West,2025-10-14
+CUST1118,Arjun Joshi,Consumer,Kolkata,West Bengal,East,2024-09-01
+CUST1119,Arjun Verma,Corporate,Mysuru,Karnataka,South,2024-08-28
+CUST1120,Arjun Patel,Home Office,Pune,Maharashtra,West,2024-03-23
+CUST1011,Nisha Bhat,Corporate,Pune,Maharashtra,West,2024-03-12
+CUST1026,Nisha Nair,Consumer,Delhi,Delhi,North,2025-04-24

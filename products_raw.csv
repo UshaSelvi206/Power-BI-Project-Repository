@@ -1,0 +1,27 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price,Supplier
+P001,ProBook X1 Laptop,Electronics,Computers,58000,72000,TechDistributors
+P002,AeroBuds Pro,Electronics,Audio,2200,4500,SoundWave
+P003,UltraView 27 Monitor,electronics ,Monitors,14500,19500,DisplayCorp
+P004,ErgoMesh Office Chair,Furniture,Seating,6500,11000,ComfortLiving
+P005,SmartFit Band 5,Electronics,Wearables,1800,3200,GadgetHub
+P006,MechKey RGB Keyboard,Electronics,Accessories,2500,4800,TechDistributors
+P007,PureBrew Coffee Maker,Home & Kitchen,Appliances,3200,5500,HomeEssentials
+P008,ZenDesk Standing Table,FURNITURE,Tables,12000,18500,ComfortLiving
+P009,GlideMouse Wireless,Electronics,Accessories,600,1250,TechDistributors
+P010,PowerVault 20000mAh,Electronics,Accessories,1100,2100,GadgetHub
+P011,HydroFlask Steel Bottle,Home & Kitchen,Drinkware,450,950,HomeEssentials
+P012,Lumina LED Desk Lamp,Home & Kitchen,,850,1600,HomeEssentials
+P013,SonicBoom Bluetooth Speaker,Electronics,Audio,3100,5800,SoundWave
+P014,CloudFoam Memory Pillow,Home & Kitchen,Bedding,900,1800,ComfortLiving
+P015,SwiftSSD 1TB External,Electronics,Storage,5200,7800,TechDistributors
+P016,AirPurify Mini,Home & Kitchen,Appliances,4800,7900,HomeEssentials
+P017,ChefMaster Blender,Home & Kitchen,Appliances,2100,3900,HomeEssentials
+P018,UrbanPack Laptop Backpack,Fashion,Bags,1100,2400,StyleCraft
+P019,Classic Leather Wallet,Fashion,Accessories,550,1300,StyleCraft
+P020,RunnerX Sports Shoes,Fashion,Footwear,2400,4600,ActiveGear
+P021,YogaMat Pro Grip,Sports,Fitness,700,1500,ActiveGear
+P022,Dumbbell Set 10kg,Sports,Fitness,1600,2900,ActiveGear
+P023,TravelMate Cabin Trolley,Fashion,Luggage,3400,6200,StyleCraft
+P024,ClearView Webcam HD,Electronics,Accessories,1900,3400,DisplayCorp
+P025,Acoustic Foam Panels,Home & Kitchen,Decor,1200,2200,ComfortLiving
+P005,SmartFit Band 5,Electronics,Wearables,1800,3200,GadgetHub

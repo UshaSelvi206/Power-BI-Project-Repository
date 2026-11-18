@@ -1,0 +1,67 @@
+Return_ID,Order_ID,Return_Date,Return_Reason,Refund_Status
+RET-501,ORD-2025364,2025-12-14,Changed Mind,Refunded
+RET-502,ORD-2025333,2026-07-22,Size/Fit Issue,Refunded
+RET-503,ORD-2025523,2025-06-02,Late Delivery,Refunded
+RET-504,ORD-2025500,2026-09-18,Changed Mind,Refunded
+RET-505,ORD-2025458,2026-08-15,,Refunded
+RET-506,ORD-2025081,2026-07-15,Size/Fit Issue,Pending
+RET-507,ORD-2025391,2026-05-23,Late Delivery,Refunded
+RET-508,ORD-2025294,2025-04-16,Changed Mind,Refunded
+RET-509,ORD-2025475,2026-03-13,Size/Fit Issue,Refunded
+RET-510,ORD-2025149,2025-01-25,Defective Item,Refunded
+RET-511,ORD-2025172,2025-06-03,Size/Fit Issue,Refunded
+RET-512,ORD-2025346,2026-07-16,Defective Item,Refunded
+RET-513,ORD-2025432,2026-06-02,Changed Mind,Refunded
+RET-514,ORD-2025586,2026-03-31,Size/Fit Issue,Refunded
+RET-515,ORD-2025415,2025-01-22,Late Delivery,Refunded
+RET-516,ORD-2025074,2026-03-12,Late Delivery,Refunded
+RET-517,ORD-2025082,2025-09-27,Wrong Product Sent,Replacement Sent
+RET-518,ORD-2025166,2026-02-18,Changed Mind,Refunded
+RET-519,ORD-2025352,2025-04-06,Changed Mind,Refunded
+RET-520,ORD-2025234,2026-06-28,Late Delivery,Replacement Sent
+RET-521,ORD-2025322,2025-10-20,Size/Fit Issue,Refunded
+RET-522,ORD-2025325,2026-07-13,Size/Fit Issue,Refunded
+RET-523,ORD-2025299,2025-03-26,Wrong Product Sent,Refunded
+RET-524,ORD-2025274,2025-05-08,Changed Mind,Refunded
+RET-525,ORD-2025405,2025-10-20,Late Delivery,Refunded
+RET-526,ORD-2025278,2025-12-09,Defective Item,Refunded
+RET-527,ORD-2025456,2026-07-16,Defective Item,Refunded
+RET-528,ORD-2025372,2025-04-29,Size/Fit Issue,Refunded
+RET-529,ORD-2025534,2026-04-08,Defective Item,Refunded
+RET-530,ORD-2025462,2025-06-18,Defective Item,Refunded
+RET-531,ORD-2025424,2025-12-31,Changed Mind,Refunded
+RET-532,ORD-2025189,2026-06-09,Size/Fit Issue,Refunded
+RET-533,ORD-2025024,2025-02-16,Size/Fit Issue,Refunded
+RET-534,ORD-2025129,2025-06-13,Defective Item,Refunded
+RET-535,ORD-2025241,2026-02-20,Defective Item,Refunded
+RET-536,ORD-2025258,2025-07-19,Wrong Product Sent,Replacement Sent
+RET-537,ORD-2025216,2025-09-28,Changed Mind,Replacement Sent
+RET-538,ORD-2025171,2025-05-19,Wrong Product Sent,Refunded
+RET-539,ORD-2025407,2026-04-13,Wrong Product Sent,Replacement Sent
+RET-540,ORD-2025106,2025-02-18,Wrong Product Sent,Refunded
+RET-541,ORD-2025098,2025-04-21,Late Delivery,Refunded
+RET-542,ORD-2025066,2025-08-16,Changed Mind,Refunded
+RET-543,ORD-2025485,2025-11-30,Size/Fit Issue,Refunded
+RET-544,ORD-2025562,2025-02-27,Late Delivery,Refunded
+RET-545,ORD-2025056,2025-10-01,Changed Mind,Refunded
+RET-546,ORD-2025027,2025-08-06,Size/Fit Issue,Replacement Sent
+RET-547,ORD-2025537,2025-08-26,Defective Item,Refunded
+RET-548,ORD-2025086,2026-04-04,Size/Fit Issue,Refunded
+RET-549,ORD-2025107,2025-10-24,Late Delivery,Refunded
+RET-550,ORD-2025269,2025-09-20,Defective Item,Pending
+RET-551,ORD-2025160,2026-09-02,Changed Mind,Refunded
+RET-552,ORD-2025087,2025-06-22,Size/Fit Issue,Replacement Sent
+RET-553,ORD-2025400,2025-09-26,Wrong Product Sent,Refunded
+RET-554,ORD-2025317,2026-10-10,Size/Fit Issue,Pending
+RET-555,ORD-2025235,2026-10-17,Defective Item,Refunded
+RET-556,ORD-2025254,2025-06-21,Late Delivery,Replacement Sent
+RET-557,ORD-2025291,2025-05-23,Changed Mind,Refunded
+RET-558,ORD-2025454,2026-08-09,Size/Fit Issue,Replacement Sent
+RET-559,ORD-2025130,2026-04-09,Wrong Product Sent,Refunded
+RET-560,ORD-2025135,2026-02-05,Size/Fit Issue,Replacement Sent
+RET-561,ORD-2025540,2025-09-28,Defective Item,Refunded
+RET-562,ORD-2025175,2026-04-08,Late Delivery,Refunded
+RET-563,ORD-2025030,2026-05-31,Wrong Product Sent,Refunded
+RET-564,ORD-2025036,2026-07-25,Size/Fit Issue,Refunded
+RET-565,ORD-2025366,2026-05-09,Size/Fit Issue,Replacement Sent
+RET-503,ORD-2025523,2025-06-02,Late Delivery,Refunded
