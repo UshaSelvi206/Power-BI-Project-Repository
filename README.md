@@ -92,6 +92,7 @@ The Power BI report contains three interactive dashboard pages.
 
 Provides a high-level overview of the company's business performance.
 
+
 **Key Visualizations:**
 - KPI Cards – Net Revenue, Net Profit, Profit Margin %, Total Orders, and Return Rate %
 - Monthly Revenue and Profit Trend
