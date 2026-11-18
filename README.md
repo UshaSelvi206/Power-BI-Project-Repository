@@ -100,7 +100,8 @@ Provides a high-level overview of the company's business performance.
 - Regional Sales Map of India
 
 **Business Focus:** Monitor overall business performance, identify revenue trends, and compare regional and category-wise sales.
-
+### Executive Summary
+![Executive Summary](execusive-summary.png)
 ### 2. Product & Customer Insights
 
 Focuses on product profitability and customer-related performance.
@@ -112,7 +113,8 @@ Focuses on product profitability and customer-related performance.
 - Decomposition Tree for Net Revenue
 
 **Business Focus:** Identify profitable products, understand customer segments, and explore factors influencing revenue and profitability.
-
+### Product & Customer Insights
+![Product & Customer Insights](Product-customer-Insight.png)
 ### 3. Logistics & Returns Analysis
 
 Analyzes shipping timelines, return patterns, and payment preferences.
@@ -124,7 +126,8 @@ Analyzes shipping timelines, return patterns, and payment preferences.
 - Interactive Order Details Table with Drill-through
 
 **Business Focus:** Compare order processing and shipping timelines, identify common return reasons, and understand customer payment preferences.
-
+### Logistics & Returns Analysis
+![Logistics & Returns Analysis](Logistics-returns-analysis.png)
 *Note: The dataset contains Order Date and Ship Date, but not an actual delivery date. Therefore, the shipping analysis measures the time between order placement and shipment, not final customer delivery time.*
 
 ## Key Business Insights
